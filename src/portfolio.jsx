@@ -7,7 +7,8 @@ export const globalStyles = {
   // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
   "--txtcolor": "#272341",
   "--p_color": "#31aefb",
-  "--t_color":"#0df5bf",
+  "--t_color":"#05d2a2d0",
+  "--f_color": "#0ac76f",
   "--s_color": "#fff",
 };
 
