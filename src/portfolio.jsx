@@ -132,7 +132,7 @@ export const details = [
   {
     id: 1,
     title: "Pluralsight-clone",
-    desc: `In this project we have tried to make a look alike clone of Paula's Choice. With our efforts and the technology stack, that we have learned till now in Unit-4 in Masai School, we were able to clone the front end, integrated it with backend and added similar looks and features.`,
+    desc: `In this project we have tried to make a look alike clone of Pluralsight.com. With our efforts and the technology stack, that we have learned till now in Unit-4 in Masai School, we were able to clone the front end, integrated it with backend and added similar looks and features.`,
     feature: `Sign-in/Sign-up,
               backend database is use to show product and add to cart, explore course pages,
               Payment pages.`,
@@ -158,15 +158,18 @@ export const details = [
   
   {
     id: 6,
-    title: "Youtube Clone ",
-    desc: `It's youtube app, users can search anything exactly like youtube and they can play the results video & recomended videos.`,
-    feature: `Search content videos,
-            can play recomended video.
-            and working this website till going.`,
+    title: "Amazon Prime Video",
+    desc: `It's is my Indiviual project , Amazon prime video app. users after login and purchase prime membership he/she go through movie page and find tranding movies.`,
+    feature: `Landing page with responsiveness,
+              SignUp/Login,
+              Movie page with sorting Functionality
+              Tranding movie page,
+              You acn SignOut your account
+              `,
     tech: `Tech Stack: HTML | CSS | JavaScript`,
-    img: "https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(100).png",
-    link: "https://gilded-youtiao-03dcc4.netlify.app/",
-    github: "https://github.com/Surajit-Dhar/YouTube_Clone",
+    img: "https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(81).png",
+    link: "https://vocal-cannoli-332a71.netlify.app/",
+    github: "https://github.com/Surajit-Dhar/Amazon-Prime-Video",
   },
 ];
 
