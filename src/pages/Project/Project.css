@@ -28,7 +28,7 @@ button:after {
   position: absolute;
   opacity: 0;
   top: 10px;
-  right: -20px;
+  right: -30px;
   transition: 0.5s;
 }
 
@@ -119,4 +119,7 @@ h5.prj-title {
   .project-t .p {
     padding: 0 15px 0 15px;
   }
+}
+.fluid-container{
+  margin:0px;
 }

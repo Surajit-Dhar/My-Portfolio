@@ -31,7 +31,7 @@ export const aboutme = {
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like traveling, gaming , I want to explore historical place with vloging.",
 };
-//https://github.com/ashish1234sharma/pictures/blob/main/resume%20pic-modified%20(1).png?raw=true
+
 // Skills 
 export const whatido = {
   title: "Full Stack Web Development",

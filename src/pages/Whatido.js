@@ -6,7 +6,8 @@ import Logo from "./Logo";
 
 const Whatido = () => {
   return (
-    <Fade bottom cascade>
+    <div id="do">
+    <Fade bottom cascade >
       <section id="whatido">
         <h1 className="Whatido-title" id="whatido-title">
           <Fade bottom cascade>
@@ -42,6 +43,7 @@ const Whatido = () => {
         </div>
       </section>
     </Fade>
+    </div>
   );
 };
 
