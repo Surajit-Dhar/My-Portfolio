@@ -1,7 +1,7 @@
 .projects {
   margin-top: 60px;
   padding-top: 30px;
-  background-image: var(--grad);
+  background:linear-gradient(to right bottom,#0e8cfb,#53fc96);
 }
 
 .project-title {

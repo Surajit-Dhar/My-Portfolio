@@ -1,5 +1,5 @@
 .Whatido-title {
-  color: var(--txtcolor);
+  color: var(--t_color);
   text-align: center;
   margin-bottom: -80px;
 }
@@ -71,7 +71,7 @@ div.logo {
   text-align: left;
 }
 .box p {
-  color: var(--txtcolor);
+  color: var(--p_color);
 }
 .vertical-center {
   display: flex;

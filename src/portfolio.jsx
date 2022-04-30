@@ -2,11 +2,12 @@
 //I Would Highly Recommend You To Customize The Theme According To Your Taste.
 //import imgpic from "./components/Animation/pik-my.png"
 export const globalStyles = {
-  "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
+  "--grad": "linear-gradient(315deg,#0e8cfb,#53fc96)", // Use gradients only
   // "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
   // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
   "--txtcolor": "#272341",
-  "--p_color": "#00cdac",
+  "--p_color": "#31aefb",
+  "--t_color":"#0df5bf",
   "--s_color": "#fff",
 };
 
@@ -32,7 +33,7 @@ export const aboutme = {
 //https://github.com/ashish1234sharma/pictures/blob/main/resume%20pic-modified%20(1).png?raw=true
 // Skills 
 export const whatido = {
-  title: "Full Stack Development",
+  title: "Full Stack Web Development",
 
   details: [
     "Building responsive website using HTML,CSS,JS,React",
