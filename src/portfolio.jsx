@@ -29,7 +29,7 @@ export const aboutme = {
  imgLink: "https://raw.githubusercontent.com/surajit00/Photos/main/11zon_cropped.png",
   p1: "Hey, My name is Surajit Dhar. I have completed my Bachelor of Engineering from Techno India University, Kolkata(W.B.).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like traveling and gaming. And I like to explore historical places with vlogging.",
+  p3: "Apart from coding I also like travelling and gaming. And I like to explore historical places with vlogging.",
 };
 
 // Skills 
