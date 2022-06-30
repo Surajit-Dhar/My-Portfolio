@@ -158,18 +158,18 @@ export const details = [
   
   {
     id: 6,
-    title: "Amazon Prime Video",
-    desc: `It's is my Indiviual project , Amazon prime video app. users after login and purchase prime membership he/she go through movie page and find tranding movies.`,
-    feature: `Landing page with responsiveness,
-              SignUp/Login,
-              Movie page with sorting Functionality
-              Tranding movie page,
-              You acn SignOut your account
+    title: "Bobbi Brown.com",
+    desc: `Bobbi Brown Cosmetics is a global premium beauty brand that empowers women to embrace and enhance their individual beauty. The website of bobbi-brown provides all the beauty products that are offered by the company.`,
+    feature: `SignUp/Login,
+              Landing page with responsiveness
+              Products Page sorting Functionality
+              Cart Page,
+              Payment Page
               `,
-    tech: `Tech Stack: HTML | CSS | JavaScript`,
-    img: "https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(81).png",
-    link: "https://vocal-cannoli-332a71.netlify.app/",
-    github: "https://github.com/Surajit-Dhar/Amazon-Prime-Video",
+    tech: `Tech Stack: React Js | CSS | Redux | MongoDB`,
+    img: "https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(156).png",
+    link: "https://bobbibrown.vercel.app/",
+    github: "https://github.com/Surajit-Dhar/BobbiBrown.com",
   },
 ];
 
