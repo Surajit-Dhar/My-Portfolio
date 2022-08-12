@@ -20,7 +20,7 @@ export const main = {
   name: "Surajit Dhar",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1-PbX70QFeWUFRKlEjZ-SrbbAyvwqBlvP/view?usp=sharing",
+    "https://drive.google.com/file/d/1SINVHlYHmOgizjehCZSb6fXV0L0QUPII/view?usp=sharing",
 };
 
 // AboutMe
